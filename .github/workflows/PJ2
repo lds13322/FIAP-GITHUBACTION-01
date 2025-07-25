@@ -20,6 +20,3 @@ jobs:
 
         - name: Step 3
           run:  echo "Olá, mundo! Esta e a Step 3!"
-      
-
-      
